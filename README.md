@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kai0310&count_private=true&show_icons=true&theme=buefy)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kai0310&layout=compact&theme=buefy)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kai0310&count_private=true)
 
 - 🔭 I’m currently working on ...
 Web Applications 
