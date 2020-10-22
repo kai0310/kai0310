@@ -2,14 +2,6 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kai0310&count_private=true)
 
-- 🔭 I’m currently working on ...
-Web Applications 
-- 🌱 I’m currently learning ...
-Laravel
-- 👯 I’m looking to collaborate on ...
-SSO and many projects
-- 💬 Ask me about ... anything
-- 📫 How to reach me: ... email
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-  
+- 15 years old 
+- I’m currently working on ... Web Applications
+- I’m currently learning ... Laravel
