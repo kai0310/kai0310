@@ -13,7 +13,7 @@
 - TypeScript
 - SQL
 - Docker
-- Python (Flask, Django, OpenCV, BeautifulSoup, OpenCV)
+- Python (Flask, Django, OpenCV, BeautifulSoup)
 
 ### Sub Skills
 - Go
