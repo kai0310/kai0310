@@ -6,6 +6,7 @@
 - 16 years old 🥳
 - I’m currently working on ... Web Applications
 - I’m currently learning ... Laravel, Go, Python, Next.js
+- My job as an engineer is to create an environment where the team can develop easily.
 
 ### Main Skills
 - PHP (Laravel)
@@ -13,7 +14,9 @@
 - TypeScript
 - SQL
 - Docker
-- Python (Flask, Django, OpenCV, BeautifulSoup)
+- English
 
 ### Sub Skills
 - Go
+- Python (Flask, Django, OpenCV, BeautifulSoup)
+- Google App Script
