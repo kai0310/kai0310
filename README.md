@@ -3,7 +3,7 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kai0310&count_private=true&show_icons=true)
 
 ### Bio
-- 17 years old 🥳 < HappyBirthday !
+- 17 years old 🥳
 - I’m currently working on Web Applications
 - I’m currently learning Laravel, Go, Python, Next.js
 - My job as an engineer is to create an environment where the team can develop easily.
