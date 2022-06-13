@@ -7,6 +7,7 @@
 - I’m currently working on Web Applications
 - I’m currently learning Laravel, Go, Python, Next.js
 - My job as an engineer is to create an environment where the team can develop easily.
+- 2022 未踏ジュニアクリエイター
 
 ### Main Skills
 - PHP (Laravel)
