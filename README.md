@@ -8,6 +8,6 @@
 - 2022 Mitou Jr. Super Creator
 
 ## Career
-- Web Engineer @ [株式会社Nossa](https://www.nossa.co.jp) (2021/05 - 2023/01)
-- AI Engineer @ [株式会社松尾研究所](https://matsuo-institute.com) (2022/09 - present)
-- AI Engineer @ [株式会社Almondo](http://almondotech.com/) (2023/01 - present)
+- Web Engineer at [株式会社Nossa](https://www.nossa.co.jp) (2021/05 - 2023/01)
+- AI Engineer at [株式会社松尾研究所](https://matsuo-institute.com) (2022/09 - present)
+- AI Engineer at [株式会社Almondo](http://almondotech.com/) (2023/01 - present)
