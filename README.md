@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ## Bio
-- 17 years old 🥳
+- 17 years old
 - I’m currently working on Web Applications
 - I’m currently learning Laravel, Go, Python, Next.js
 - My job as an engineer is to create an environment where the team can develop easily.
