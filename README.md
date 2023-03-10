@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ## Bio
-- 17 years old. 🍨
+- 18 years old.
 - My job as an engineer is to create an environment where the team can develop easily. 🧑‍💻👩‍💻✨
 - 2022 Mitou Jr. Super Creator. 📡
 
