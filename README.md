@@ -4,6 +4,7 @@
 - 18 years old.
 - My job as an engineer is to create an environment where the team can develop easily. 🧑‍💻👩‍💻✨
 - 2022 Mitou Jr. Super Creator. 📡
+- University of Tsukuba B1 student.
 
 ## Career
 - Web Engineer at [株式会社Nossa](https://www.nossa.co.jp). (2021/05 - 2023/01)
