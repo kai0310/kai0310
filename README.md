@@ -2,7 +2,7 @@
 
 ## Bio
 - 18 years old.
-- My job as an engineer is to create an environment where the team can develop easily. 🧑‍💻👩‍💻✨
+- As an engineer, my role involves crafting an environment that facilitates effortless development for our team. 🧑‍💻👩‍💻✨
 - 2022 Mitou Jr. Super Creator. 📡
 - University of Tsukuba B1 student.
 
