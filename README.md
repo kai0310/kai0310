@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ## Bio
-- 18 years old.
+- 19 years old.
 - As an engineer, my role involves crafting an environment that facilitates effortless development for our team. 🧑‍💻👩‍💻✨
 - 2022 Mitou Jr. Super Creator. 📡
 - University of Tsukuba B1 student.
