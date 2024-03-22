@@ -8,7 +8,7 @@
 
 ## Career
 - Web Engineer at [Nossa, inc.](https://www.nossa.co.jp) (2021/05 - 2023/01)
-- AI Engineer and DX Consultant at [Matsuo Institute.](https://matsuo-institute.com) (2022/09 - present)
+- Project Manager, AI Engineer and DX Consultant at [Matsuo Institute.](https://matsuo-institute.com) (2022/09 - present)
   - Collaborative Research Team at The University of Tokyo.
 - AI Engineer at [Almondo Co.Ltd,.](http://almondotech.com/) (2023/01 - 2023/07)
 - Bachelor's degree, Computer Science Major at [University of Tsukuba](https://www.tsukuba.ac.jp/en/). (2023/04 - present)
