@@ -12,4 +12,5 @@
   - Collaborative Research Team at The University of Tokyo.
 - AI Engineer at [Almondo Co.Ltd,.](http://almondotech.com/) (2023/01 - 2023/07)
 - Bachelor's degree, Computer Science Major at [University of Tsukuba](https://www.tsukuba.ac.jp/en/). (2023/04 - present)
+  - Full member of Digital Nature Group
 - Researcher intern at [Matsuo Lab](https://weblab.t.u-tokyo.ac.jp), The University Of Tokyo. (2023/04 - present)
