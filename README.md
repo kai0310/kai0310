@@ -1,4 +1,8 @@
-### Hi there 👋
+# Hi there 👋
+
+- Startup Founder & Independent Developer
+- Strategy Consultant 
+- Research Manager specializing in foundational model development for collaborative projects
 
 ## Bio
 - 19 years old.
@@ -13,3 +17,4 @@
 - Bachelor's degree, Computer Science Major at [University of Tsukuba](https://www.tsukuba.ac.jp/en/). (2023/04 - present)
   - Full member of Digital Nature Group
 - Researcher intern at [Matsuo Lab](https://weblab.t.u-tokyo.ac.jp), The University Of Tokyo. (2023/04 - present)
+- Founder and CEO of [dele co., ltd.](https://dele.work) (2024/11 - present)
