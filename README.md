@@ -18,3 +18,4 @@
   - Full member of Digital Nature Group
 - Researcher intern at [Matsuo Lab](https://weblab.t.u-tokyo.ac.jp), The University Of Tokyo. (2023/04 - present)
 - Founder and CEO of [dele co., ltd.](https://dele.work) (2024/11 - present)
+- Executive Office - Management and New Business Development Assistant at [Goodpatch Inc](https://goodpatch.com/).
