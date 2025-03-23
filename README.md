@@ -5,7 +5,7 @@
 - Research Manager specializing in foundational model development for collaborative projects
 
 ## Bio
-- 19 years old.
+- 20 years old.
 - As an engineer, my role involves crafting an environment that facilitates effortless development for our team. 🧑‍💻👩‍💻✨
 - University of Tsukuba B2 student.
 
